@@ -8,4 +8,4 @@ Tick the checkboxes to include the field in your query, fill out the subsequent 
 ## License
 MIT License.
 
-Please note that the CSS Style Sheet based off of Colin Duquesnoy's QDarkStyleSheet, with parts modified to fit the custom GUI. All credits go to him and the associated users for developing the stylesheet and distributing it under the MIT License.
+Please note that the CSS Style Sheet is heavily based off of Colin Duquesnoy's QDarkStyleSheet (https://github.com/ColinDuquesnoy/QDarkStyleSheet), with parts modified to fit the custom GUI. All credits go to him and the associated users for developing the stylesheet and distributing it under the MIT License.
